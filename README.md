@@ -1,21 +1,24 @@
-# LibraryManagementSystem
+# Library Management System
 
-## Description
-This program is a simple console-based library management system developed in Java. It allows librarians to manage books, patrons, and transactions effectively.
+## Overview
+
+This project is a Java-based Library Management System developed as part of a software engineering team project.
+
+The application uses object-oriented design principles to manage books, patrons, inventory records, and lending transactions..
 
 ## Features
-- Add, remove, and update books
-- Register and remove patrons
-- Checkout and return books
 
-## Usage
-1. Compile the Java files using a Java compiler (e.g., `javac`):
+- Book inventory management
+- Patron registration
+- Check-out and return workflows
+- Transaction tracking
+- Object-oriented architecture
 
-2. Run the `LibraryManagementSystem` class:
+## Technologies
 
-3. Follow the on-screen prompts to perform various library operations:
-- Choose options from the menu to add, remove, or update books.
-- Register or remove patrons.
-- Checkout or return books.
+- Java
+- Object-Oriented Programming
 
+## Team Project
 
+This project was developed as part of a four-person software engineering team, emphasizing collaborative development, software design, and project organization.
